@@ -1,5 +1,7 @@
 # Coleções Chaveadas
 
+Atividades ministradas pela professora da DIO Stephany Nusch *** github: https://github.com/stebsnusch ***
+
 ## Atividade 1: Maps
 
 Crie uma função que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
